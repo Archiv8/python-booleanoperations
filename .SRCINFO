@@ -1,0 +1,18 @@
+pkgbase = python-booleanoperations
+	pkgdesc = A library to provide boolean operations on paths
+	pkgver = 0.9.0
+	pkgrel = 4
+	url = https://github.com/typemytype/booleanoperations
+	arch = any
+	license = MIT
+	checkdepends = python-defcon
+	checkdepends = python-fontpens
+	checkdepends = python-pytest
+	makedepends = python-setuptools-scm
+	depends = python
+	depends = python-pyclipper
+	depends = python-fonttools
+	source = https://files.pythonhosted.org/packages/source/b/booleanOperations/booleanOperations-0.9.0.zip
+	sha512sums = f06d2d3143399f5f6325456a2368d608ad8b7b18a5f63bdaf4c48ddd9a9a2aebf4f67da5cadad2aa0d9d9caaa4839f314ed016cb8572805ef3a01f74e469e56b
+
+pkgname = python-booleanoperations
